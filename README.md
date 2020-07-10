@@ -49,9 +49,9 @@ CoreUI, with more than 10k Github stars, is a popular admin dashboard design, ac
 
 *Vendor Notes (CoreUI Agency)* - CoreUI admin dashboard delivers a bunch of responsive, customizable, and reusable components you need to create modern, beautiful, responsive apps. CoreUI makes app development lightning fast.
 
-- CoreUI - product page
-- CoreUI Demo - LIVE app
-- CoreUI Sources - published on Github (MIT License)
+- [CoreUI](https://coreui.io/?ref=appseed) - product page
+- [CoreUI Demo](https://coreui.io/demo/3.1.0/#main.html) - LIVE app
+- [CoreUI Sources](https://github.com/coreui/coreui-free-bootstrap-admin-template)
 
 <br />
 
